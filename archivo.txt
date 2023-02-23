@@ -1,0 +1,4 @@
+hola como estas
+
+soy David Torres y estoy aprendiendo en git
+para saber cual es la diferencia entre git y github
