@@ -5,3 +5,5 @@ el encabezado debe ir aqui
 soy David Torres y estoy aprendiendo en git
 para saber cual es la diferencia entre git y github
 y el ingles para poder comunicarme de mejor manera con mi equipo
+
+se crio en cali en pleno distrito de agua blanca
