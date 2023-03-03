@@ -11,3 +11,5 @@ se crio en cali en pleno distrito de agua blanca
 y ahora vamos con el trabajo de git
 
 es hora de practicar
+
+ahora me uno desde la consola de microsoft 
