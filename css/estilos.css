@@ -18,7 +18,7 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #cabecera {
@@ -37,6 +37,8 @@ body
     font-size: 0.8em;
 }
 
-p{
-    font-size: medium;
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
 }
